@@ -1,6 +1,6 @@
 {
   "name": "yinst",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "install react-native libraries with linking and compiling to identify build-errors very soon",
   "main": "index.js",
   "bin": {
