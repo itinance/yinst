@@ -1,0 +1,24 @@
+{
+  "name": "yinst",
+  "version": "0.0.1",
+  "description": "install react-native libraries with linking and compiling to identify build-errors very soon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/itinance/yinst.git"
+  },
+  "keywords": [
+    "react-native",
+    "yarn",
+    "npm"
+  ],
+  "author": "Hagen Hübel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itinance/yinst/issues"
+  },
+  "homepage": "https://github.com/itinance/yinst#readme"
+}
